@@ -1,6 +1,6 @@
 # Menu
-### [About](https://mblackLibrarian.github.io/about)
-### [Projects](https://mblackLibrarian.github.io/projects)
+## [About](https://mblackLibrarian.github.io/about)
+## [Projects](https://mblackLibrarian.github.io/projects)
 
 # Projects
 Here is a list of my projects:
