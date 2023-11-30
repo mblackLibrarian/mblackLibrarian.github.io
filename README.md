@@ -4,6 +4,8 @@
 ## [Projects](https://mblackLibrarian.github.io/projects)
 ---
 # mblackLibrarian.github.io
-This is my practice site
+This is my practice site. I'm using it to learn how to build a GitHub pages site.
 
-## IS THIS THE PAGE THAT LOADS?
+I have three sections so far. These are linked in the menu above. 
+
+I'm also using this to become more familiar with Mark Down.
